@@ -1,4 +1,4 @@
-# Nuxt, Spring Boot & Spring Data JPA를 사용한 풀스택 애플리케이션
+![](./logo.png)
 
 ## 프로젝트 개요
 

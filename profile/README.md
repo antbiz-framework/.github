@@ -1,4 +1,4 @@
-# Full Stack Application with Nuxt, Spring Boot & Spring Data JPA
+![](./logo.png)
 
 ## Project Overview
 
